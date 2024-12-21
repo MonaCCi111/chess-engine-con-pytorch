@@ -2,3 +2,4 @@
 data/pgn/*.pgn
 __pycache__/
 /models/ready/
+/.idea/
